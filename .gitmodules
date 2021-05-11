@@ -1,3 +1,6 @@
 [submodule "lib/cpprestsdk"]
 	path = lib/cpprestsdk
 	url = git@github.com:microsoft/cpprestsdk.git
+[submodule "lib/libdiscobot/cpprestsdk"]
+	path = lib/libdiscobot/cpprestsdk
+	url = git@github.com:microsoft/cpprestsdk.git
